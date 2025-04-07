@@ -1,0 +1,33 @@
+body 
+    {
+        background-color:lightgoldenrodyellow
+    }
+
+p 
+    {
+        text-align:left
+    }
+
+.centered 
+    {
+        text-align:center
+    }
+
+.headText
+    {
+        text-align:center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+#textColor
+    {
+        color: rgb(56, 56, 22)
+    }
+#border 
+    {
+        border-width: 5px;
+        border-style: solid;
+        border-color: rgb(255, 227, 102);
+        background: rgb(255, 234, 138);
+        padding: 6px;
+    }
