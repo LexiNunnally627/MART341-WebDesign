@@ -1,0 +1,103 @@
+/*New content*/
+@import url('https://fonts.googleapis.com/css2?family=Hepta+Slab:wght@1..900&display=swap');
+
+
+.content
+    {
+        font-family: "Hepta Slab", serif;
+        font-weight:400;
+        font-style: normal;
+    }
+  
+.headContent
+    {
+        font-family: "PoetsenOne", sans-serif;
+        font-weight:800;
+        font-style: normal;
+        text-align:center;
+        color: rgb(56, 56, 22);
+    }
+  
+.hoverElement
+    {
+        font-family: "Hepta Slab", serif;
+    }
+  
+a:link 
+    {
+        color:maroon
+    }
+  
+a:hover 
+    {
+        color:blue ;
+        font-weight:bold
+    }
+
+
+/*Old content*/
+
+body 
+    {
+        background-color:lightgoldenrodyellow
+    }
+
+p 
+    {
+        text-align:left
+    }
+
+.centered 
+    {
+        text-align:center
+    }
+
+.headText
+    {
+        text-align:center;
+        font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-weight: normal;
+        color: rgb(56, 56, 22) ;
+    }
+
+#textColor
+    {
+        color: rgb(56, 56, 22)
+    }
+#border 
+    {
+        border-width: 5px;
+        border-style: solid;
+        border-color: rgb(255, 227, 102);
+        background: rgb(255, 234, 138);
+        padding: 6px;
+    }
+
+#rowBorder
+    {
+        border-width: 5px;
+        border-style: solid;
+        border-color: rgb(255, 227, 102);
+        background: rgb(255, 234, 138);
+        padding: 6px; 
+    }
+
+.column-left
+    {
+        float: left; width: 33%
+    }
+
+.column-middle
+    {
+        float: left; width: 33%
+    }
+
+.column-right
+    {
+        float: left; width: 33%
+    }
+
+.row:after 
+    {
+        content: ""; display: table; clear:both
+    }
