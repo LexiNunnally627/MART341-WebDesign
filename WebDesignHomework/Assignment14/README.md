@@ -1,0 +1,8 @@
+Required Techniques (Must Have):
+
+1. 3+ Pages – The website should contain multiple pages with a cohesive theme. Each page must link to the others flawlessly, utilizing a user-friendly navigation.--- DONE: I have five pages (index, vader, solo, obi, and contact)
+2. Framework Integration – Incorporate a CSS framework of your choice (e.g., Bootstrap, Foundation) to enhance design and layout.
+**(Note: you may duplicate one of your existing pages (rename it test.html) to experiment on, and only apply techniques if or once you're happy. Link your test.html page in the nav temporarily. You can also duplicate or create a completely new stylesheet for this page to keep things organized.)** --- DONE: I downloaded and used Bulma. I loved how easy it was to understand how to change my items
+3. Framework Styling Elements – Use predefined styling components from the chosen framework for consistency and visual appeal. --- DONE: I changed how the button looks on the contact page. 
+4. HTML5 Canvas – Include an HTML5 canvas element to display custom graphics or animations. Feel free to apply this to your duplicated test page.--- DONE: On the contact us page, there is a canvas next to the picture.
+5. JavaScript Functionality – Add JavaScript to enhance interactivity or perform dynamic actions on the site (test page is totally fine here as well), --- DONE: On the contact us page, the dogs photo is placed inside of a canvas.
